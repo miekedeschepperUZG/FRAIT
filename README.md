@@ -59,14 +59,10 @@ Strong partnerships with technology vendors and local coordinators enabled rapid
 # Codes Availability
 
 ## Part 1: From Workshop to Prompt
-Tailoring Discharge Summaries to Health Care Providers’ Needs
-Deschepper M, Rogge H, Syx M, Colpaert K
-JMIR Medical Informatics 2026;14:e80613 — DOI: 10.2196/80613
-<img width="564" height="77" alt="image" src="https://github.com/user-attachments/assets/c08267a7-fcb5-44d7-bcd3-a99ad00ca3af" />
+Deschepper M, Rogge H, Syx M, Colpaert K. Tailoring Discharge Summaries to Health Care Providers' Needs (Part 1 of the Framework and Implementation of AI Tools Project): User-Centered Design Approach. JMIR Med Inform. 2026;14:e80613. Published 2026 Mar 4. doi:10.2196/80613
+
 
 
 ## Part 2: Expert Evaluation and Consensus
-Expert Evaluation and Consensus on GPT-4o Summaries of Clinical Letters
-Deschepper M, Rogge H, Colpaert K
-JMIR Medical Informatics 2026;14:e90374 — DOI: 10.2196/90374
-<img width="660" height="77" alt="image" src="https://github.com/user-attachments/assets/6ecd465e-d142-44da-b742-4c5202d3961c" />
+Deschepper M, Rogge H, Colpaert K. Expert Evaluation and Consensus on GPT-4o Summaries of Clinical Letters: Validation and Results of the Framework and Implementation of AI Tools Project. JMIR Med Inform. 2026;14:e90374. Published 2026 May 11. doi:10.2196/90374
+
